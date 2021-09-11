@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: manu-schwendener-DSwBHyWKiVw-unsplash.jpg
+  image_fullwidth: back.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Blogs & Tricks"
+  url: '/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: '<em>Codecake</em> offers a collection of random yet powerful tricks for your day-to-day coding horrors. These are random but can be life-saving if you are building something unique.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Java Jungle"
+  url: '/java/'
+  image: header_roadmap_3.jpg
+  text: 'Java Jungle gets its name from the idea that it is a jungle of totally random java utility codes on topics I spent hours to get done. '
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "Utility Tools"
+  url: '/utility/'
+  image: header_unsplash_1.jpg
+  text: '<em>CodeCake</em> also offers mostly language independent (sometimes, lucky-to-find) guide for useful tools.'
 #
 # Use the call for action to show a button on the frontpage
 #
